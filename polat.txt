@@ -2,3 +2,7 @@ polat
 polat + 1
 polat + 2
 polat + 3
+
+A joke by chatgpt:
+Why did the programmer decide to embrace errors?
+~ Because they wanted to try-catch happiness!
